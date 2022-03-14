@@ -71,12 +71,11 @@ header p{
 }
 .media{
     position: relative;
-    text-align:center;
-    color: red;
+    color: white;
 }
 .text_center{
     position: absolute;
-    top:50%;
+    top:70%;
 }
 @media (max-width:767px){
     /*Mettre 2 images par lignes dans affiche et poster*/
